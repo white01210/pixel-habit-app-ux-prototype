@@ -1,14 +1,14 @@
 # Pixel Quest Questionnaire App
 
-A mobile UX prototype designed in Figma for a gamified questionnaire app.  
-The project combines pixel-art visuals, RPG-style progression, and simple academic tasks to make questionnaires feel more engaging for students.
+A mobile UX prototype made in Figma to showcase UX principles for creating a more engaging questionnaire experience.
+The project uses pixel-art visuals, RPG-style progression, quests, XP rewards, and role-based screens to make academic questionnaires feel more interactive and motivating.
 
 ## Screenshots
 
 <p align="center">
-  <img src="assets/login.png" width="230" alt="Login / Profile Selection">
-  <img src="assets/home_page.png" width="230" alt="Student Dashboard">
-  <img src="assets/chest.png" width="230" alt="Reward screen">
+  <img src="assets/login.png" width="220" alt="Login / Profile Selection">
+  <img src="assets/home_page.png" width="220" alt="Student Dashboard">
+  <img src="assets/chest.png" width="220" alt="Reward">
 </p>
 
 <p align="center">
@@ -17,95 +17,57 @@ The project combines pixel-art visuals, RPG-style progression, and simple academ
   <b>Reward</b>
 </p>
 
+<br>
 
-## Project Overview
+<p align="center">
+  <img src="assets/edit_quest.png" width="220" alt="Quest Selection">
+  <img src="assets/quest.png" width="220" alt="Questionnaire Screen">
+  <img src="assets/prof.png" width="220" alt="Professor Dashboard">
+</p>
 
-This prototype explores how a normal questionnaire experience can be redesigned as a small RPG-inspired mobile app. Instead of presenting forms in a plain way, the app uses quests, XP rewards, character visuals, and a playful pixel-art interface.
+<p align="center">
+  <b>Quest Selection</b> &nbsp;&nbsp;&nbsp;
+  <b>Questionnaire Screen</b> &nbsp;&nbsp;&nbsp;
+  <b>Professor Dashboard</b>
+</p>
 
-The idea is to make academic tasks, such as psychology or statistics questionnaires, feel more motivating and less repetitive.
+## UX Focus
 
-## Main Goal
+This project explores how gamification can improve a simple questionnaire flow. Instead of showing users a plain form, the app presents tasks as RPG-style quests with progress, rewards, and a clear sense of achievement.
 
-The main goal of this project was to practice UX design by creating a simple mobile flow that feels interactive, clear, and visually engaging.
+Main UX principles used:
 
-The prototype focuses on:
-
-- gamified questionnaire experience
-- student and professor profile selection
-- RPG-style task system
-- XP-based motivation
-- pixel-art interface design
-- clear mobile screen structure
-
-## Target Users
-
-The app is designed mainly for students who need to complete questionnaires, surveys, or learning tasks.  
-It can also include a professor role, where teachers can assign tasks or questionnaires to students.
+* **Gamification:** XP, ranks, quests, and rewards make tasks feel more motivating.
+* **Clear visual hierarchy:** large buttons, task cards, and readable sections guide the user.
+* **Role-based navigation:** students and professors have separate entry points.
+* **Mobile-first design:** the layout is made for quick interaction on a phone screen.
+* **Consistent visual identity:** pixel-art assets create a playful and memorable interface.
 
 ## User Flow
 
-1. The user starts from a pixel-art opening screen.
-2. The user chooses a profile and signs in as a student or professor.
-3. The student reaches a dashboard with assigned tasks.
-4. Each task appears as a quest with a subject, short message, XP reward, and play button.
-5. The user can complete questionnaires and gain progress through XP.
-
-## Screens
-
-### Opening Screen
-
-The first screen introduces the app with a fantasy-style environment and an interactive chest.  
-This creates a game-like first impression instead of a standard app opening screen.
-
-### Profile Selection Screen
-
-The second screen lets the user sign in as either a student or professor.  
-This separates the experience depending on the user role and makes the app feel more personalized.
-
-### Student Dashboard
-
-The dashboard shows the user’s progress, rank, XP, and available tasks.  
-Tasks are presented like RPG quests, using subjects such as Statistics and Psychology.
-
-## UX Decisions
-
-### Gamification
-
-I used RPG elements such as XP, ranks, quests, and rewards to make questionnaires feel more motivating. The goal was to reduce the feeling that the user is only filling out another form. Huge shoutout to the artists for itch.io for creating such beautiful assets.
-
-### Pixel-Art Style
-
-The pixel-art style gives the app a clear visual identity. It makes the interface feel playful, memorable, and different from a normal academic platform.
-
-### Clear Task Cards
-
-Each questionnaire is presented as a separate card with:
-
-- subject name
-- short description
-- XP reward
-- clear action button
-
-This makes the dashboard easy to scan and helps the user understand what to do next.
-
-### Role-Based Entry
-
-The sign-in screen includes both student and professor options. This suggests that the app could support different types of users in the future.
-
-### Mobile-First Design
-
-The prototype is designed for a phone screen, with large buttons, vertical navigation, and a simple layout suitable for quick interaction.
+1. The user signs in as a student or professor.
+2. Students see assigned questionnaire quests.
+3. Each quest shows the subject, reward, and action button.
+4. Users answer questions and gain progress through XP.
+5. Professors can access a separate screen for managing questionnaires.
 
 ## Tools Used
 
-- Figma
-- Pixel-art visual assets
-- Mobile UI design
-- UX prototyping
-- Basic gamification principles
+* Figma
+* Mobile UI design
+* UX prototyping
+* Pixel-art visual assets
+* Gamification principles
 
 ## Prototype
 
-Figma prototype:  [
-https://www.figma.com/design/wE49npk6KwoE6tXtMVA1D0/Questionnaire?node-id=0-1&p=f&t=wRjWZwXsmBGCXbvl-0](https://www.figma.com/design/wE49npk6KwoE6tXtMVA1D0/Questionnaire?node-id=0-1&t=wRjWZwXsmBGCXbvl-1)
+Figma prototype:
+[Open the Figma prototype](https://www.figma.com/design/wE49npk6KwoE6tXtMVA1D0/Questionnaire?node-id=0-1&t=wRjWZwXsmBGCXbvl-1)
 
+## Credits
+
+Some visual assets were created by artists on itch.io. This project is used for learning and portfolio purposes.
+
+## Project Status
+
+This is an early UX prototype focused on interaction flow, visual design, and user engagement. Future improvements could include user testing, better accessibility, and a coded version of the app.

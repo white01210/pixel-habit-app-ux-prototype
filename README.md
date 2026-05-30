@@ -22,8 +22,8 @@ The project uses pixel-art visuals, RPG-style progression, quests, XP rewards, a
 
 <p align="center">
   <img src="assets/chest.png" width="220" alt="Reward">
-  <img src="assets/edit_quest.png" width="220" alt="Quest Selection">
   <img src="assets/prof.png" width="220" alt="Professor Dashboard">
+  <img src="assets/edit_quest.png" width="220" alt="Quest Selection">
 </p>
 
 <p align="center">

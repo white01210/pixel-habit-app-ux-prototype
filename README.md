@@ -3,6 +3,20 @@
 A mobile UX prototype designed in Figma for a gamified questionnaire app.  
 The project combines pixel-art visuals, RPG-style progression, and simple academic tasks to make questionnaires feel more engaging for students.
 
+## Screenshots
+
+### Opening Screen
+
+![Opening screen](assets/chest.png)
+
+### Student Dashboard
+
+![Student dashboard](assets/home_page.png)
+
+### Login / Profile Selection
+
+![Login screen](assets/login.png)
+
 ## Project Overview
 
 This prototype explores how a normal questionnaire experience can be redesigned as a small RPG-inspired mobile app. Instead of presenting forms in a plain way, the app uses quests, XP rewards, character visuals, and a playful pixel-art interface.
@@ -94,16 +108,3 @@ The prototype is designed for a phone screen, with large buttons, vertical navig
 Figma prototype:  [
 https://www.figma.com/design/wE49npk6KwoE6tXtMVA1D0/Questionnaire?node-id=0-1&p=f&t=wRjWZwXsmBGCXbvl-0](https://www.figma.com/design/wE49npk6KwoE6tXtMVA1D0/Questionnaire?node-id=0-1&t=wRjWZwXsmBGCXbvl-1)
 
-## Screenshots
-
-### Opening Screen
-
-![Opening screen](chest.png)
-
-### Student Dashboard
-
-![Student dashboard](home_page.png)
-
-### Login / Profile Selection
-
-![Login screen](login.png)

@@ -5,17 +5,17 @@ The project combines pixel-art visuals, RPG-style progression, and simple academ
 
 ## Screenshots
 
-### Login / Profile Selection
+<p align="center">
+  <img src="assets/login.png" width="230" alt="Login / Profile Selection">
+  <img src="assets/home_page.png" width="230" alt="Student Dashboard">
+  <img src="assets/chest.png" width="230" alt="Reward screen">
+</p>
 
-![Login screen](assets/login.png)
-
-### Student Dashboard
-
-![Student dashboard](assets/home_page.png)
-
-### Reward
-
-![reward](assets/chest.png)
+<p align="center">
+  <b>Login / Profile Selection</b> &nbsp;&nbsp;&nbsp;
+  <b>Student Dashboard</b> &nbsp;&nbsp;&nbsp;
+  <b>Reward</b>
+</p>
 
 
 ## Project Overview

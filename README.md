@@ -8,10 +8,11 @@ The project uses pixel-art visuals, RPG-style progression, quests, XP rewards, a
 <p align="center">
   <img src="assets/login.png" width="220" alt="Login / Profile Selection">
   <img src="assets/home_page.png" width="220" alt="Student Dashboard">
-  <img src="assets/chest.png" width="220" alt="Reward">
+  <img src="assets/quest.png" width="220" alt="Questionnaire Screen">
 </p>
 
 <p align="center">
+  
   <b>Login / Profile Selection</b> &nbsp;&nbsp;&nbsp;
   <b>Student Dashboard</b> &nbsp;&nbsp;&nbsp;
   <b>Reward</b>
@@ -21,7 +22,7 @@ The project uses pixel-art visuals, RPG-style progression, quests, XP rewards, a
 
 <p align="center">
   <img src="assets/edit_quest.png" width="220" alt="Quest Selection">
-  <img src="assets/quest.png" width="220" alt="Questionnaire Screen">
+  <img src="assets/chest.png" width="220" alt="Reward">
   <img src="assets/prof.png" width="220" alt="Professor Dashboard">
 </p>
 

@@ -1,3 +1,8 @@
+## Prototype
+
+Figma prototype:
+[Open the Figma prototype](https://www.figma.com/design/wE49npk6KwoE6tXtMVA1D0/Questionnaire?node-id=0-1&t=wRjWZwXsmBGCXbvl-1)
+
 # Pixel Quest Questionnaire App
 
 A mobile UX prototype made in Figma to showcase UX principles for creating a more engaging questionnaire experience.
@@ -60,10 +65,6 @@ Main UX principles used:
 * Pixel-art visual assets
 * Gamification principles
 
-## Prototype
-
-Figma prototype:
-[Open the Figma prototype](https://www.figma.com/design/wE49npk6KwoE6tXtMVA1D0/Questionnaire?node-id=0-1&t=wRjWZwXsmBGCXbvl-1)
 
 ## Credits
 
